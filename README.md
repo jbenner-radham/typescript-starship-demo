@@ -6,6 +6,7 @@ See Also
 --------
 - [package.json § peerDependencies | npm Documentation](https://docs.npmjs.com/files/package.json#peerdependencies)
 - [scripts | npm Documentation](https://docs.npmjs.com/misc/scripts)
+- [Publishing § Including Declarations in Your npm Package · TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/publishing.html#including-declarations-in-your-npm-package)
 
 License
 -------
