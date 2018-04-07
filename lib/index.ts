@@ -1,3 +1,3 @@
-import Hello from './Hello';
+import Starship from './Starship';
 
-export default Hello;
+export default Starship;

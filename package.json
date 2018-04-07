@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Part of the modularization demo: typescript-mothership-demo",
   "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "types": ["./dist/index.d.ts", "./types/json.d.ts"],
   "directories": {
     "lib": "lib"
   },
@@ -22,7 +22,9 @@
     "url": "https://github.com/jbenner-radham/typescript-starship-demo/issues"
   },
   "homepage": "https://github.com/jbenner-radham/typescript-starship-demo#readme",
-  "peerDependencies": {},
+  "peerDependencies": {
+    "typescript": "2.x"
+  },
   "private": true,
   "devDependencies": {}
 }
