@@ -7,8 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-	"clean": "rm -rf ./dist",
-	"postinstall": "tsc",
+    "clean": "rm -rf ./dist",
+    "postinstall": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,8 +21,7 @@
     "url": "https://github.com/jbenner-radham/typescript-starship-demo/issues"
   },
   "homepage": "https://github.com/jbenner-radham/typescript-starship-demo#readme",
-  "peerDependencies": {
-	  "typescript": "2.x"
-  },
-  "private": true
+  "peerDependencies": {},
+  "private": true,
+  "devDependencies": {}
 }
